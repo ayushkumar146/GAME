@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.c1{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://wallpaperaccess.com/full/3128871.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c3{
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    
+    
+}
+.c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:  red;
+    height: 15vh;
+    width: 100vw;
+}
+.nm{
+    height: 4vh;
+    width: 7vw;
+    margin-right: 1vw;
+}
+input[type=text]{
+    height: 3.6vh;
+    width: 14vw;
+}
+.c31{
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+  
+margin-top: 2vh; 
+   width:45vw ;
+    align-items: center;
+}
+.c31b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 30vw;
+}
+.c31ba{
+    font-size: 200pt;
+    color: red;
+}
+.c31c{
+    margin-top: 2vh;
+    height: 20vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.c31cc{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+}
+.c31ca{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+}
+.c31cb{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+}
+.c31bcc{
+    height: 6vh;
+    width: 40vw;
+    border-radius: 51px;
+    background-color: black;
+    color: red;
+}
+.c33{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 10vw;
+}
+.img{
+    background-image: url("./pause.png");
+    background-repeat: no-repeat;
+
+    height: 22vh;
+    width: 9vw;
+    border: none;
+    border-radius: 1000px;
+
+
+}
+.img1{
+    background-image: url("./play.png");
+    background-repeat: no-repeat;
+    height: 21vh;
+    width: 9.5vw;
+    border: none;
+    border-radius: 1000px;
+}
+.noa{
+    display: none;
+}
+.c32{
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+margin-top: 2vh; 
+   width:45vw ;
+    align-items: center;
+}
+.c32b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 30vw;
+}
+.c32ba{
+    font-size: 200pt;
+    color: red;
+}
+.c32c{
+    margin-top: 2vh;
+    height: 20vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.c32cc{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+}
+.c32ca{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+}
+.c32cb{
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 20vw;
+    
+}
+.c31bcc:hover{
+    color: black;
+    background-color: red;
+}
+.c4{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
