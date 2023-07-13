@@ -1,3 +1,3 @@
 # GAME
 
-link - https://64b03ff4cf91c02743f2effd--velvety-gumption-6be5d0.netlify.app/
+link -https://64b043bf35ac182bf4b23cd5--lambent-pastelito-418adf.netlify.app/
