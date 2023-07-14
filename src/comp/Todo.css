@@ -1,9 +1,76 @@
 *{
     margin: 0;
     padding: 0;
+    /* background-color: black; */
+}
+.c333{
+    height: 190vh;
+    width: 100vw;
+    background-color: black;
+}
+.c0{
+    height: 300vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+.c00{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    
+}
+.c01{
+    height: 10vh;
+    width: 100vw;
+}
+.c01a{
+    font-size: 36pt;
+    color: red;
+    margin-left: 15vw;
+    margin-bottom: 3vh;
+}
+.c02{
+    height: 90vh;
+    width: 50vw;
+    display: flex;
+    margin-left: 5vw;
+    flex-direction: column;
+}
+.hello{
+    font-size: 16pt;
+    color: violet;
+}
+.c023{
+    display: flex;
+    height: 90vh;
+    width: 100vw;
+}
+.c024{
+    height: 90vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c024a{
+    background-image: url("https://media.tenor.com/eis2Hjm8apsAAAAC/back-to.gif");
+    height: 80vh;
+    width: 40vw;
+    margin-left: 15vw;
+    background-repeat: no-repeat;
+}
+.c022{
+    margin-top: 5vh;
+}
+.c04{
+    font-size: 20pt;
+    color: yellow;
 }
 .c1{
-    height: 100vh;
+    height: 150vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -12,7 +79,7 @@
     background-size: cover;
 }
 .c3{
-    height: 70vh;
+    height: 90vh;
     width: 100vw;
     display: flex;
     
@@ -31,25 +98,54 @@
     height: 4vh;
     width: 7vw;
     margin-right: 1vw;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
 }
-input[type=text]{
+.nm:hover{
+    height: 4vh;
+    width: 7vw;
+    margin-right: 1vw;
+    color: black;
+    background-color: red;
+}
+/* input[type=text] ,.abc{
     height: 3.6vh;
     width: 14vw;
+    border-radius: 20px;
+    color: blueviolet;
+    background-color:black;
+} */
+/* input:hover[type=text]{
+    height: 3.6vh;
+    width: 14vw;
+    border-radius: 20px;
+    color: rgb(230, 15, 15);
+    background-color: black;
+} */
+.abc{
+    color: purple;
 }
 .c31{
     display: flex;
     flex-direction: column;
-    height: 70vh;
+    height: 90vh;
   
 margin-top: 2vh; 
    width:45vw ;
     align-items: center;
 }
+.c31aa{
+    color: green;
+}
+.c32aa{
+    color: green;
+}
 .c31b{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    height: 60vh;
     width: 30vw;
 }
 .c31ba{
@@ -58,7 +154,7 @@ margin-top: 2vh;
 }
 .c31c{
     margin-top: 2vh;
-    height: 20vh;
+    height: 25vh;
     width: 50vw;
     display: flex;
     align-items: center;
@@ -89,12 +185,13 @@ margin-top: 2vh;
     border-radius: 51px;
     background-color: black;
     color: red;
+    font-size: 3vh;
 }
 .c33{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 90vh;
     width: 10vw;
 }
 .img{
@@ -122,7 +219,7 @@ margin-top: 2vh;
 .c32{
     display: flex;
     flex-direction: column;
-    height: 70vh;
+    height: 90vh;
 margin-top: 2vh; 
    width:45vw ;
     align-items: center;
@@ -131,7 +228,7 @@ margin-top: 2vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    height: 60vh;
     width: 30vw;
 }
 .c32ba{
@@ -140,7 +237,7 @@ margin-top: 2vh;
 }
 .c32c{
     margin-top: 2vh;
-    height: 20vh;
+    height: 25vh;
     width: 50vw;
     display: flex;
     align-items: center;
@@ -171,9 +268,173 @@ margin-top: 2vh;
     background-color: red;
 }
 .c4{
-    height: 10vh;
+    height: 20vh;
     width: 100vw;
+    margin-bottom: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.c41a{
+    font-size: 36pt;
+    color: blue;
+}
+.cme{
+    display: flex;
+    flex-direction: column;
+    height: 150vh;
+    width: 100vw;
+    background-image: url("https://wallpapercave.com/wp/wp5524635.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.sizw{
+    margin-top: 20vh;
+}
+.cnme{
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    height: 10vh;
+    font-size: 4vh;
+    font-family: 'lobster','cursive';
+    color: rgb(255, 30, 0);
+}
+
+.forms{
+    display: flex;
+}
+.icons{
+    margin-top: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 10vw;
+    width: 40vw;
+    height: 90vh;
+}
+.insta{
+    width: 140px;
+    height: 113px;
+    background-image: url("https://github.com/ayushkumar146/MYPORTFOLIO/blob/main/src/COMP/alexander-shatov-71Qk8ODIBko-unsplash%20(1).jpg?raw=true");
+    border-radius: 11114rem;
+}
+.ln{
+    width: 140px;
+    margin-top: 4vh;
+    height: 113px;
+    background-image: url("https://github.com/ayushkumar146/MYPORTFOLIO/blob/main/src/COMP/img1.jpg?raw=true");
+    border-radius: 11114rem;
+}
+.gtb{
+    width: 140px;
+    margin-top: 4vh;
+    height: 113px;
+    background-image: url("https://github.com/ayushkumar146/MYPORTFOLIO/blob/main/src/COMP/GitHub-3D-Logo-Featured-Image.jpg?raw=true");
+    border-radius: 11114rem;
+}
+.email{
+    display: flex;
+    width: 60vw;
+    margin-left: 19vw;
+    height: 90vh;
+   justify-content: center;
+   align-items: center;
+}
+.emk{
+    margin-top: 20vh;
+    margin-bottom: 3vh;
+    text-decoration: none;
+}
+.email1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+     h3{
+        margin-left: 20vw;
+    font-size: 18pt;
+    font-family: 'Playfair Display', serif;
+    color: rgb(224, 224, 242);
+    font-weight: bolder;
+}
+input[type=text]{
+    color: blueviolet;
+    border-radius: 1rem;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 2vh;
+    width: 40vw;
+    height: 4vh;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=text]:hover{
+    background-color: black;
+}
+input[type=email]{
+    color: blueviolet;
+    border-radius: 1rem;
+    font-family: 'Playfair Display', serif;
+    width: 40vw;
+    margin-bottom: 2vh;
+    height: 4vh;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=email]:hover{
+    background-color: black;
+}
+input[type=range]{
+    width: 40vw;
+    height: 3vh;
+}
+h4{
+    color: azure;
+    margin-left: 20vw;
+    font-family: 'Playfair Display', serif;
+    height: 4vh;
+    font-size: 26pt;
+    font-size: 16pt;
+    font-weight: bolder;
+    
+}
+textarea{
+    color: blueviolet;
+    border-radius: 1rem;
+    height: 24vh;
+    width: 40vw;
+    font-family: 'Playfair Display', serif;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+input[type=radio]{
+    margin-left: 30vw;
+}
+textarea:hover{
+    background-color: black;
+}
+input[type=submit], input[type=reset]{
+    border-radius: 1rem;
+    font-weight: bold;
+    font-size: 16pt;
+    margin: 1vh;
+    margin-left: 10vw;
+    font-family: 'Dancing Script', cursive;
+    width: 20vw;
+    height: 4vh;
+    color: rgb(3, 3, 44);
+    background-color: rgb(231, 78, 17);
+}
+input[type=reset]:hover{
+    color: red;
+    background-color: black;
+    
+    font-weight: bolder;
+}
+input[type=submit]:hover{
+    color: red;
+    background-color: black;
+    font-weight: bolder;
 }
