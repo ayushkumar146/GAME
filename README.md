@@ -1,3 +1,3 @@
 # GAME
 
-link -https://64b043bf35ac182bf4b23cd5--lambent-pastelito-418adf.netlify.app/
+link -https://64b09403e46cc45eef5c5a11--comforting-blini-9a6ca3.netlify.app/
